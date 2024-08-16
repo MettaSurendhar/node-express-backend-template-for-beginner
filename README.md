@@ -6,6 +6,8 @@ Welcome to the Node Express Backend Template! This template is your starting poi
 
 This template is perfect for **_beginner students_** who are just starting their journey in backend development. Whether you're new to coding or have some experience, this template will help you build your first backend application step-by-step. 🛠️
 
+For intermediates try [Backend template for Intermediates](https://github.com/MettaSurendhar/node-express-backend-template-for-intermediate)
+
 If you're feeling overwhelmed, don’t worry—we've included plenty of resources and explanations to make your learning experience smooth and enjoyable. 🌟
 
 ## Table of Contents
