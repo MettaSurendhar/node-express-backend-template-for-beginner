@@ -12,15 +12,15 @@ If you're feeling overwhelmed, don’t worry—we've included plenty of resource
 
 | Section            | Link                                      |
 | ------------------ | ----------------------------------------- |
-| Overview           | [Overview](#overview)                     |
-| Learning Resources | [Learning Resources](#learning-resources) |
-| Repo Structure     | [Repo Structure](#repo-structure)         |
-| Features           | [Features](#features)                     |
-| Usage              | [Usage](#usage)                           |
-| Tips for Beginners | [Tips for Beginners](#tips-for-beginners) |
-| Contribution       | [Contribution](#contribution)             |
-| License            | [License](#license)                       |
-| Getting Started    | [Getting Started](#getting-started)       |
+| Overview           | [Overview](#overview-)                     |
+| Learning Resources | [Learning Resources](#learning-resources-) |
+| Repo Structure     | [Repo Structure](#repo-structure-)         |
+| Features           | [Features](#features-)                     |
+| Usage              | [Usage](#usage-%EF%B8%8F)                           |
+| Tips for Beginners | [Tips for Beginners](#tips-for-beginners-) |
+| Contribution       | [Contribution](#contribution-)             |
+| License            | [License](#license-)                       |
+| Getting Started    | [Getting Started](#getting-started-)       |
 
 ---
 
