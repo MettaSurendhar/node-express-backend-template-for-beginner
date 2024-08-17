@@ -1,4 +1,4 @@
-# Node Express Backend Template for Intermediates 🚀
+# Node Express Backend Template for Beginners 🚀
 
 Welcome to the Node Express Backend Template! This template is your starting point for learning backend development with Node.js and Express.js. It’s designed to be beginner-friendly, with detailed instructions and helpful resources to guide you through the process. 🎓
 
