@@ -1,7 +1,7 @@
 {
-  "name": "backend-template",
-  "version": "1.3.1",
-  "description": "Template for back-end server using Express and Sequelize.",
+  "name": "node-express-backend-template-for-beginner",
+  "version": "1.0",
+  "description": "A Node.js and Express.js backend template tailored for beginner developers. It offers a structured foundation, essential tools, and best practices to help you build scalable and efficient applications with ease.",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon --exitcrash index.js",
@@ -9,16 +9,7 @@
     "staging": "cross-env NODE_ENV=staging node index.js",
     "prod": "NODE_ENV=production node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/ctf-tech-2023/backend-template.git"
-  },
-  "author": "Kaushik Ravishankar <rknarayan02@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/ctf-tech-2023/backend-template/issues"
-  },
-  "homepage": "https://gitlab.com/ctf-tech-2023/backend-template#readme",
+  "author": "Metta Surendhar",
   "dependencies": {
     "archiver": "^5.3.1",
     "cors": "^2.8.5",
