@@ -1,6 +1,6 @@
 {
   "name": "node-express-backend-template-for-beginner",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A Node.js and Express.js backend template tailored for beginner developers. It offers a structured foundation, essential tools, and best practices to help you build scalable and efficient applications with ease.",
   "main": "index.js",
   "scripts": {
